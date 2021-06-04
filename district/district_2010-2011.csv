@@ -1,0 +1,334 @@
+﻿District Name,County Name (District),District Type (District),Census Day Enrollment (District),English Learners % (District),Free/Reduced Meals % (District),Ethnic Diversity Index (District),Cohort Graduates % (District),Grads Mtg UC/CSU % (District),Grads Mtg UC/CSU # (District),ACT Test Takers # (District),Per Pupil Ratio: Teacher (District),Avg Years Teaching (District),Teacher Salary-Avg (District),Chronic Absenteeism % (District),CAASPP-ELA Standard Exceeded or Met (Levels 3 and 4) (District),CAASPP-Math Standard Exceeded or Met (Levels 3 and 4) (District),Current Exp of Educ per ADA (Ed Code 41372) (District),Gen Fund Exp by Object Code - 4000-4999 Books & Supplies Per Student (District),Total Gen Fund Revenues Per Student (District),Gen Fund Exp by Activity - 4000-4999 Ancillary Services Per Student # (District),Gen Fund Exp by Activity - 1000-1999 Instruction Per Student # (District),Gen Fund Exp by Activity - 5000-5999 Community Services Per Student # (District),Gen Fund Exp by Activity - 7000-7999 General Administration Per Student # (District),Gen Fund Exp by Activity - 3000-3999 Pupil Services Per Student # (District)
+Calistoga Joint Unified (Napa),Napa,Unified School District,858,Not Certified,78.4,5,82.19,100,63,0,18.7,11,N/A,N/A,N/A,N/A,12806,604,13952,239,8543,31,1250,781
+Death Valley Unified (Inyo),Inyo,Unified School District,51,Not Certified,84.3,28,100,redacted,redacted,0,6.8,9,N/A,N/A,N/A,N/A,25438,1733,27294,312,12543,0,4458,4449
+Golden Valley Unified (Madera),Madera,Unified School District,1925,6.2,46.1,36,91.03,100,143,0,23.4,6,60412,N/A,N/A,N/A,7633,256,8320,107,4329,0,781,533
+Warner Unified (San Diego),San Diego,Unified School District,286,8.4,75.2,56,90,100,31,0,14.9,4,51929,N/A,N/A,N/A,13610,1019,15644,56,7675,0,1998,2465
+Acton-Agua Dulce Unified (Los Angeles),Los Angeles,Unified School District,1696,Not Certified,30.3,34,90,99.3,138,0,23.9,11,67083,N/A,N/A,N/A,7795,431,8361,77,4778,0,687,909
+Aromas/San Juan Unified (San Benito),San Benito,Unified School District,1277,29.4,55.7,26,94.38,98.8,84,0,28.8,12,64204,N/A,N/A,N/A,10109,998,11362,37,6348,0,783,845
+Big Oak Flat-Groveland Unified (Tuolumne),Tuolumne,Unified School District,Not Certified,Not Certified,Not Certified,Not Certified,83.33,97.1,34,0,0,17,62653,N/A,N/A,N/A,12749,607,14142,220,7068,0,1638,1250
+Potter Valley Community Unified (Mendocino),Mendocino,Unified School District,254,15.7,63.8,38,26.67,95.2,20,0,14.2,10,44607,N/A,N/A,N/A,11644,744,12918,194,7384,0,1143,873
+Hesperia Unified (San Bernardino),San Bernardino,Unified School District,23137,18.9,63.1,40,79.84,93,1557,0,27.2,10,61784,N/A,N/A,N/A,6827,268,7380,9,4268,3,412,617
+Reef-Sunset Unified (Kings),Kings,Unified School District,2629,68.6,99.2,5,80.41,90,108,0,21.3,10,58683,N/A,N/A,N/A,8232,670,9101,9,5260,42,648,470
+Piedmont City Unified (Alameda),Alameda,Unified School District,2559,3,1.4,31,98.65,88.6,195,0,19,11,71437,N/A,N/A,N/A,11248,361,12287,117,7761,0,610,588
+Manhattan Beach Unified (Los Angeles),Los Angeles,Unified School District,6645,Not Certified,2.6,36,95.93,84.4,494,0,23.4,11,67752,N/A,N/A,N/A,7594,367,8523,42,5088,0,511,554
+Inglewood Unified (Los Angeles),Los Angeles,Unified School District,15112,28.1,76.4,35,76.68,82.7,791,0,23.6,11,64058,N/A,N/A,N/A,8772,443,9507,0,5561,8,549,517
+La Canada Unified (Los Angeles),Los Angeles,Unified School District,4019,4.3,1.1,42,97.9,79.5,299,0,23.6,13,70964,N/A,N/A,N/A,8117,249,8258,13,5300,14,434,573
+Palos Verdes Peninsula Unified (Los Angeles),Los Angeles,Unified School District,11928,6.5,2.3,43,98.72,79.1,853,0,23.4,10,67858,N/A,N/A,N/A,7926,258,8329,213,5530,0,386,464
+Fort Sage Unified (Lassen),Lassen,Unified School District,180,Not Certified,77.2,28,48.28,78.9,15,0,0,N/A,48493,N/A,N/A,N/A,12914,539,13139,398,7952,0,1268,946
+Palo Alto Unified (Santa Clara),Santa Clara,Unified School District,11987,11.5,8.6,49,95.96,78.2,655,0,18.4,10,85390,N/A,N/A,N/A,12994,512,13755,90,8884,10,679,887
+Big Pine Unified (Inyo),Inyo,Unified School District,183,4.4,80.3,47,100,redacted,redacted,0,10.8,9,N/A,N/A,N/A,N/A,15377,657,17629,61,9156,0,1771,1257
+Santa Monica-Malibu Unified (Los Angeles),Los Angeles,Unified School District,11562,9.3,25.5,48,88.06,75.7,693,0,20.8,12,69486,N/A,N/A,N/A,10041,287,10569,69,6395,72,661,825
+River Delta Joint Unified (Sacramento),Sacramento,Unified School District,2264,Not Certified,61.8,40,84.18,75.4,101,0,18.7,8,51441,N/A,N/A,N/A,9113,603,8947,59,5625,0,489,1050
+Coronado Unified (San Diego),San Diego,Unified School District,3139,1.4,7.6,30,96.22,75.3,213,0,23,9,62502,N/A,N/A,N/A,8233,341,8681,115,5264,104,585,589
+Arcadia Unified (Los Angeles),Los Angeles,Unified School District,9666,12.5,17.6,36,96.92,74,659,0,22.8,12,79664,N/A,N/A,N/A,7596,266,7703,60,5149,1,508,544
+La Honda-Pescadero Unified (San Mateo),San Mateo,Unified School District,341,47.5,58.9,33,73.91,72.2,13,0,13.8,8,52034,N/A,N/A,N/A,12586,498,14530,159,7427,0,1324,645
+Carmel Unified (Monterey),Monterey,Unified School District,2239,6,11.8,32,93.33,68.7,125,0,15.6,11,87200,N/A,N/A,N/A,17295,1061,19410,0,10227,5,1460,1669
+Davis Joint Unified (Yolo),Yolo,Unified School District,8507,9.5,20.8,44,91.78,68.3,461,0,20.9,11,63244,N/A,N/A,N/A,8281,321,8659,72,5457,20,573,660
+Pleasanton Unified (Alameda),Alameda,Unified School District,14904,5.2,6.7,45,95.58,67.5,837,0,24.7,12,82367,N/A,N/A,N/A,7543,220,9671,0,5429,0,483,372
+Biggs Unified (Butte),Butte,Unified School District,556,18.9,80.2,37,75,66.7,26,0,23.4,17,56250,N/A,N/A,N/A,9475,499,10753,104,5807,58,1153,553
+Poway Unified (San Diego),San Diego,Unified School District,34135,12.3,12.9,47,94.57,64.7,1688,0,28.1,14,69945,N/A,N/A,N/A,7065,271,7755,122,4729,15,383,562
+San Ramon Valley Unified (Contra Costa),Contra Costa,Unified School District,28986,4.8,2.8,47,97.08,64,1325,0,23.5,10,67363,N/A,N/A,N/A,7458,317,8034,87,4947,8,331,458
+Oak Park Unified (Ventura),Ventura,Unified School District,4002,2.2,4.3,25,95.36,63.2,213,0,24.7,12,71780,N/A,N/A,N/A,7527,235,7695,54,5266,5,484,569
+Laguna Beach Unified (Orange),Orange,Unified School District,3037,3.8,12.6,19,97.57,63.1,154,0,21.4,11,91828,N/A,N/A,N/A,13670,619,15101,346,8422,0,1171,1433
+Cabrillo Unified (San Mateo),San Mateo,Unified School District,3352,31.6,47.7,40,84.07,62,150,0,21.7,13,64696,N/A,N/A,N/A,8439,200,8627,128,5264,3,535,642
+South Pasadena Unified (Los Angeles),Los Angeles,Unified School District,4424,6.5,11.6,56,95.78,62,230,0,25.3,13,74956,N/A,N/A,N/A,7368,262,8148,90,4877,8,497,444
+Trinity Alps Unified (Trinity),Trinity,Unified School District,786,Not Certified,49.5,27,91.95,62,49,0,22.1,13,60871,N/A,N/A,N/A,10823,744,12121,354,6730,0,675,1178
+Rocklin Unified (Placer),Placer,Unified School District,11652,4.1,17.4,34,93.36,61.7,504,0,24.5,9,62745,N/A,N/A,N/A,6474,205,7069,73,4185,9,350,402
+Los Alamitos Unified (Orange),Orange,Unified School District,9640,2,9.8,45,95.18,61.1,504,0,27.4,13,77448,N/A,N/A,N/A,6727,217,7604,38,4768,0,454,399
+Pacific Grove Unified (Monterey),Monterey,Unified School District,1855,6.1,18.7,37,91.1,60.7,82,0,20,11,75429,N/A,N/A,N/A,12860,619,14063,203,7692,0,1197,1004
+Clovis Unified (Fresno),Fresno,Unified School District,38495,6.8,33.5,51,93.72,60,1539,0,22.5,12,62188,N/A,N/A,N/A,7336,407,8175,137,4541,0,391,674
+Claremont Unified (Los Angeles),Los Angeles,Unified School District,7150,5.1,31.9,30,94.91,59.4,342,0,25.6,12,68397,N/A,N/A,N/A,7508,240,8738,101,4763,0,576,718
+Irvine Unified (Orange),Orange,Unified School District,27258,13.3,11.4,50,97.07,59.4,1265,0,25.6,15,72609,N/A,N/A,N/A,7562,321,7997,78,4928,22,272,694
+Fremont Unified (Alameda),Alameda,Unified School District,32607,17.4,19.5,52,88.91,58.4,1360,0,25.6,13,75227,N/A,N/A,N/A,7305,267,8391,35,5024,16,310,385
+Temple City Unified (Los Angeles),Los Angeles,Unified School District,5601,19.4,39.3,40,94.47,57.3,285,0,24.1,12,70975,N/A,N/A,N/A,7405,306,7880,18,4953,0,468,509
+Castro Valley Unified (Alameda),Alameda,Unified School District,9023,8.6,22,64,95.74,56.5,411,0,24.2,11,66671,N/A,N/A,N/A,7290,316,11430,89,4859,38,467,463
+San Marcos Unified (San Diego),San Diego,Unified School District,18321,Not Certified,43.8,46,96.78,56.1,617,0,27.2,11,67466,N/A,N/A,N/A,7420,279,7785,68,5043,226,321,591
+El Segundo Unified (Los Angeles),Los Angeles,Unified School District,3198,Not Certified,12.7,47,94.61,55,176,0,25.2,11,72933,N/A,N/A,N/A,7817,406,8584,28,4931,213,692,310
+San Luis Coastal Unified (San Luis Obispo),San Luis Obispo,Unified School District,7234,14.3,33.6,37,95.84,54.6,306,0,22.4,13,69471,N/A,N/A,N/A,9788,339,11159,162,5833,0,639,1085
+Bassett Unified (Los Angeles),Los Angeles,Unified School District,4526,Not Certified,88.4,6,83.18,54.2,155,0,24.7,13,N/A,N/A,N/A,N/A,9131,441,9760,94,5437,0,902,673
+Beverly Hills Unified (Los Angeles),Los Angeles,Unified School District,4679,8.2,5.9,28,94.98,54.2,296,0,18,12,N/A,N/A,N/A,N/A,11464,234,12377,123,7353,19,874,624
+Brea-Olinda Unified (Orange),Orange,Unified School District,5927,10.6,23.4,53,95.14,53.9,267,0,26.8,13,72275,N/A,N/A,N/A,7136,252,7365,44,4370,0,583,742
+Dublin Unified (Alameda),Alameda,Unified School District,6257,9.3,11.7,60,92.69,53.7,195,0,22.6,9,75125,N/A,N/A,N/A,7901,221,8441,44,5258,0,464,466
+Moorpark Unified (Ventura),Ventura,Unified School District,7208,18.5,31.2,43,91.34,53.4,326,0,25,14,63972,N/A,N/A,N/A,7399,188,8277,11,4737,0,521,484
+Saint Helena Unified (Napa),Napa,Unified School District,1367,Not Certified,39.1,37,95.83,53,61,0,15,11,91691,N/A,N/A,N/A,17590,585,17644,254,11174,0,1487,1073
+Tahoe-Truckee Unified (Placer),Placer,Unified School District,3909,23.3,38.2,35,90.29,52.9,136,0,19.4,13,73109,N/A,N/A,N/A,12002,744,12563,111,7258,10,804,1371
+San Francisco Unified (San Francisco),San Francisco,Unified School District,55571,28.8,60.4,60,81.84,52.4,2018,0,18.8,12,59899,N/A,N/A,N/A,9104,353,10965,67,4854,0,540,792
+Carlsbad Unified (San Diego),San Diego,Unified School District,11046,8.3,21.6,42,91.57,51.9,364,0,22.9,12,69873,N/A,N/A,N/A,7781,234,7573,61,5107,21,447,749
+Temecula Valley Unified (Riverside),Riverside,Unified School District,30272,6.8,16.7,50,92.42,51.8,1184,0,24.1,11,73422,N/A,N/A,N/A,7188,269,7587,26,5166,6,321,531
+Glendora Unified (Los Angeles),Los Angeles,Unified School District,7284,Not Certified,17.1,44,95.06,51.7,317,0,25.7,12,74056,N/A,N/A,N/A,6945,250,7521,21,4896,4,432,355
+Baldwin Park Unified (Los Angeles),Los Angeles,Unified School District,19923,Not Certified,60.7,16,90.13,50.8,932,0,21.3,12,75020,N/A,N/A,N/A,8109,195,9587,0,5542,0,267,431
+Scotts Valley Unified (Santa Cruz),Santa Cruz,Unified School District,2574,2.1,13.5,18,96.69,50.6,89,0,24.4,11,57665,N/A,N/A,N/A,6968,237,7277,86,4543,1,520,515
+Las Virgenes Unified (Los Angeles),Los Angeles,Unified School District,11393,5.1,5.4,23,93.77,50.3,490,0,23.9,12,68174,N/A,N/A,N/A,7966,169,8865,1,5563,0,334,610
+Newport-Mesa Unified (Orange),Orange,Unified School District,21811,24.7,42.4,41,93.5,50.3,823,0,25.1,13,82392,N/A,N/A,N/A,10625,390,11246,140,6341,0,810,815
+Garden Grove Unified (Orange),Orange,Unified School District,48659,43.3,69,44,86.02,50,1720,0,27.3,13,79755,N/A,N/A,N/A,7787,206,8618,162,5347,9,242,655
+Durham Unified (Butte),Butte,Unified School District,1030,7,40,24,92.05,49.4,41,0,21.5,15,63790,N/A,N/A,N/A,7653,280,8413,136,4927,0,586,674
+Alhambra Unified (Los Angeles),Los Angeles,Unified School District,18413,29.2,69.1,40,92.76,48.4,906,0,24.8,14,70361,N/A,N/A,N/A,7937,254,9713,51,5089,56,518,882
+Torrance Unified (Los Angeles),Los Angeles,Unified School District,24370,13.7,22.8,61,93.41,48.3,1058,0,28.9,13,65822,N/A,N/A,N/A,7104,204,7980,92,4914,0,373,490
+New Haven Unified (Alameda),Alameda,Unified School District,12955,23.9,42.3,67,79.54,48.1,429,0,23.8,13,83645,N/A,N/A,N/A,8157,154,8158,94,5585,19,401,459
+Ripon Unified (San Joaquin),San Joaquin,Unified School District,3064,13.2,38.2,37,91.49,48.1,104,0,24.6,12,60346,N/A,N/A,N/A,6502,329,7323,16,4349,111,485,587
+Capistrano Unified (Orange),Orange,Unified School District,53192,10.2,21.3,40,96.66,48,2015,0,27.1,14,77508,N/A,N/A,N/A,7228,203,7456,66,5054,0,281,546
+Livermore Valley Joint Unified (Alameda),Alameda,Unified School District,12771,13.6,25.6,41,91.07,47.5,497,0,23.4,11,68831,N/A,N/A,N/A,7986,272,8153,97,5222,8,463,497
+Berkeley Unified (Alameda),Alameda,Unified School District,9468,Not Certified,43.6,64,79.62,47.3,378,0,16.8,9,N/A,N/A,N/A,N/A,12236,398,13070,24,7712,27,981,844
+Scott Valley Unified (Siskiyou),Siskiyou,Unified School District,700,3.7,62.7,34,91.38,47.3,26,0,17.2,11,N/A,N/A,N/A,N/A,9976,881,12183,570,5775,0,1034,788
+Riverdale Joint Unified (Fresno),Fresno,Unified School District,1536,28,81.3,22,98.41,47.2,58,0,20.3,10,58245,N/A,N/A,N/A,7920,590,8466,150,5043,4,584,657
+El Tejon Unified (Kern),Kern,Unified School District,1136,10.2,46.6,34,79.13,46.5,46,0,24.2,12,60786,N/A,N/A,N/A,8251,420,10380,330,4832,367,643,1015
+Oakland Unified (Alameda),Alameda,Unified School District,46584,26,70.4,55,58.35,46.5,998,0,18.1,9,54035,N/A,N/A,N/A,10583,494,11695,327,5869,14,615,821
+Orland Joint Unified (Glenn),Glenn,Unified School District,2205,24.2,74.2,38,90.24,46.4,70,0,23,13,58033,N/A,N/A,N/A,7352,280,8229,71,4890,0,631,478
+Coast Unified (San Luis Obispo),San Luis Obispo,Unified School District,763,35.3,57.4,37,92.68,46.1,35,0,15.8,15,71170,N/A,N/A,N/A,13771,797,14213,183,8048,0,1419,1397
+Alameda Unified (Alameda),Alameda,Unified School District,10494,22.4,32.5,65,84.37,45.3,359,0,22.6,11,62420,N/A,N/A,N/A,8504,295,9390,120,5425,7,594,420
+Fowler Unified (Fresno),Fresno,Unified School District,2375,28.2,77.7,24,92.78,45.2,76,0,22.6,12,58923,N/A,N/A,N/A,7593,432,8124,57,5103,7,389,712
+Corona-Norco Unified (Riverside),Riverside,Unified School District,53148,12.8,43.6,47,88.57,44.8,1665,0,27.8,11,75159,N/A,N/A,N/A,6987,243,7614,35,4735,0,274,560
+Redondo Beach Unified (Los Angeles),Los Angeles,Unified School District,8437,7.7,21.7,50,89.26,44.7,284,0,23.9,10,71246,N/A,N/A,N/A,7927,342,8006,0,5347,12,389,666
+Conejo Valley Unified (Ventura),Ventura,Unified School District,21091,9.8,18.8,38,94.77,44.4,838,0,23.7,13,67725,N/A,N/A,N/A,7532,310,7976,109,5124,90,375,425
+Elk Grove Unified (Sacramento),Sacramento,Unified School District,62416,15.2,49.9,71,83.79,44.4,1883,0,23.6,12,62793,N/A,N/A,N/A,7474,194,8067,0,5155,0,441,502
+South San Francisco Unified (San Mateo),San Mateo,Unified School District,9312,Not Certified,42.3,59,93.12,44.3,275,0,23.5,10,60978,N/A,N/A,N/A,7152,314,7712,0,4511,4,388,800
+Templeton Unified (San Luis Obispo),San Luis Obispo,Unified School District,2249,3.6,17.7,26,99.02,44.3,94,0,24.3,13,61970,N/A,N/A,N/A,6997,220,8014,127,4480,5,617,434
+Eastern Sierra Unified (Mono),Mono,Unified School District,517,15.3,53,43,88.89,44.1,15,0,12.4,9,53566,N/A,N/A,N/A,19015,761,20501,42,9733,0,1392,2150
+San Diego Unified (San Diego),San Diego,Unified School District,131784,Not Certified,65.5,57,85.34,44,3513,0,22.5,13,64014,N/A,N/A,N/A,9655,340,10178,27,6319,4,437,1250
+Big Valley Joint Unified (Lassen),Lassen,Unified School District,213,Not Certified,73.7,23,88.89,redacted,redacted,0,14.8,17,52563,N/A,N/A,N/A,11102,739,12800,292,5969,0,1122,982
+Pajaro Valley Unified (Santa Cruz),Santa Cruz,Unified School District,19545,48,69.7,21,81.58,43.3,450,0,22.6,13,53849,N/A,N/A,N/A,9286,583,10058,30,5935,1,336,780
+Live Oak Unified (Sutter),Sutter,Unified School District,1781,Not Certified,80,41,84.21,43.2,48,0,22.6,14,59545,N/A,N/A,N/A,7274,307,7918,65,4427,43,526,723
+Tustin Unified (Orange),Orange,Unified School District,23093,23.3,39,51,96.2,43.2,671,0,29.7,10,71149,N/A,N/A,N/A,6679,241,7512,49,4364,15,361,492
+Saddleback Valley Unified (Orange),Orange,Unified School District,31724,13,19.9,44,94.74,43.1,1159,0,26.9,16,73071,N/A,N/A,N/A,6830,189,7965,45,5068,0,307,422
+Hayward Unified (Alameda),Alameda,Unified School District,21744,32.6,62.3,47,68.92,43,470,0,22.9,11,74423,N/A,N/A,N/A,8791,494,9624,18,6107,1,368,546
+Atascadero Unified (San Luis Obispo),San Luis Obispo,Unified School District,4898,7.6,38.2,33,92.68,42.9,148,0,24.3,16,63717,N/A,N/A,N/A,7343,243,8085,124,4520,20,405,991
+Ojai Unified (Ventura),Ventura,Unified School District,3005,12.4,36.7,36,87.65,42.9,96,0,24.5,19,63924,N/A,N/A,N/A,7666,261,8028,15,4954,83,666,610
+Shoreline Unified (Marin),Marin,Unified School District,555,Not Certified,56.8,5,80.95,42.9,15,0,12.4,12,75783,N/A,N/A,N/A,19109,859,21039,233,11626,120,1302,2498
+Long Beach Unified (Los Angeles),Los Angeles,Unified School District,84816,23.3,69.7,49,78.3,42.4,2324,0,23.2,15,73224,N/A,N/A,N/A,8436,194,8766,11,5584,84,330,632
+Placentia-Yorba Linda Unified (Orange),Orange,Unified School District,25821,12.6,26.1,47,91.92,42.4,885,0,25.8,13,74321,N/A,N/A,N/A,7914,304,7907,20,5196,5,379,535
+Glendale Unified (Los Angeles),Los Angeles,Unified School District,26371,25.2,44.6,46,87.54,42.3,909,0,23.9,13,70145,N/A,N/A,N/A,8201,321,9044,56,5849,17,344,462
+Sierra Unified (Fresno),Fresno,Unified School District,1565,Not Certified,41.6,29,93.37,42.1,72,0,19.3,13,62678,N/A,N/A,N/A,10460,538,11447,0,6032,0,705,1476
+Tulelake Basin Joint Unified (Modoc),Modoc,Unified School District,539,42.7,82.6,34,88.64,42.1,16,0,14.2,11,67704,N/A,N/A,N/A,12314,545,12655,819,6694,0,1197,736
+Mendocino Unified (Mendocino),Mendocino,Unified School District,525,2.5,32.8,18,91.84,42,21,0,13.9,15,58381,N/A,N/A,N/A,14200,668,16449,241,7751,0,1444,1553
+ABC Unified (Los Angeles),Los Angeles,Unified School District,20682,19.5,47.9,58,91.44,41.8,704,0,24.5,15,71807,N/A,N/A,N/A,8054,344,8293,0,5229,0,476,558
+Rowland Unified (Los Angeles),Los Angeles,Unified School District,15711,31.4,64.2,39,85.19,41.6,416,0,23.3,13,70091,N/A,N/A,N/A,8173,470,10847,0,5385,18,438,521
+Sierra-Plumas Joint Unified (Sierra),Sierra,Unified School District,424,6.4,49.5,19,92.86,41.4,12,0,15.6,11,51031,N/A,N/A,N/A,13205,413,14889,110,6568,0,1918,1734
+Plumas Unified (Plumas),Plumas,Unified School District,2293,Not Certified,35.3,24,92.98,41.3,83,0,24.6,14,56509,N/A,N/A,N/A,11871,767,13319,154,6459,84,1148,1888
+Sonoma Valley Unified (Sonoma),Sonoma,Unified School District,4662,Not Certified,52.3,38,90.55,41.2,105,0,20.2,12,60326,N/A,N/A,N/A,9419,359,9096,45,6738,0,442,661
+Ferndale Unified (Humboldt),Humboldt,Unified School District,495,6.7,28.9,23,95.65,40.9,18,0,18.9,16,56796,N/A,N/A,N/A,8328,324,9151,213,5531,0,632,459
+Redlands Unified (San Bernardino),San Bernardino,Unified School District,21398,9.5,52.5,53,86.71,40.5,682,0,25.5,13,71841,N/A,N/A,N/A,7328,238,8080,73,4716,10,417,645
+San Jose Unified (Santa Clara),Santa Clara,Unified School District,33018,26.1,44.2,47,84.14,40.3,835,0,21.7,10,65541,N/A,N/A,N/A,8963,365,9112,135,5235,0,403,727
+Milpitas Unified (Santa Clara),Santa Clara,Unified School District,9887,27.2,32.6,59,89.34,40.1,290,0,25.6,11,72935,N/A,N/A,N/A,7249,289,8057,33,5013,0,374,368
+Valley Center-Pauma Unified (San Diego),San Diego,Unified School District,4209,23.5,40.1,46,94.57,40,134,0,23.6,15,73795,N/A,N/A,N/A,8770,502,9022,180,5195,26,698,857
+Duarte Unified (Los Angeles),Los Angeles,Unified School District,3975,22.7,68.4,30,88.66,39.8,106,0,26.3,13,66918,N/A,N/A,N/A,7858,494,8586,78,5181,5,704,429
+Linden Unified (San Joaquin),San Joaquin,Unified School District,2351,24.9,56.4,40,89.09,39.8,82,0,21,11,58367,N/A,N/A,N/A,7521,432,8248,70,4934,17,428,744
+Hamilton Unified (Glenn),Glenn,Unified School District,789,Not Certified,75.4,15,92.19,39.7,23,0,23.1,13,63075,N/A,N/A,N/A,7363,286,8789,6,4692,2,571,244
+Chico Unified (Butte),Butte,Unified School District,13060,10.3,42.3,37,86.13,39.4,403,0,24.2,15,65065,N/A,N/A,N/A,8166,341,8804,46,5968,2,431,652
+Folsom-Cordova Unified (Sacramento),Sacramento,Unified School District,18893,11.9,31.1,44,90.27,39.4,479,0,25.5,12,68999,N/A,N/A,N/A,7431,249,7922,126,4776,0,363,705
+San Lorenzo Valley Unified (Santa Cruz),Santa Cruz,Unified School District,4025,1.1,21.9,26,90.13,39.4,97,0,23.8,10,60347,N/A,N/A,N/A,8819,313,9476,115,5153,0,839,789
+Bishop Unified (Inyo),Inyo,Unified School District,1957,11.9,43.1,50,78.61,39.2,60,0,23.2,14,66605,N/A,N/A,N/A,9304,291,9847,87,5854,0,765,610
+Sanger Unified (Fresno),Fresno,Unified School District,10752,22.2,71.3,33,93.6,39,267,0,21.5,9,57614,N/A,N/A,N/A,8189,483,8504,94,4610,5,486,941
+Pasadena Unified (Los Angeles),Los Angeles,Unified School District,19803,20.6,65,43,76.17,38.8,471,0,24,11,65714,N/A,N/A,N/A,9695,362,10167,35,5946,58,517,1026
+Chino Valley Unified (San Bernardino),San Bernardino,Unified School District,31608,13.7,35.6,47,87.26,38.4,862,0,27.3,14,72759,N/A,N/A,N/A,7266,263,7637,100,4685,45,404,548
+Dixon Unified (Solano),Solano,Unified School District,3732,20.6,43.6,40,78.55,38.4,111,0,24.1,13,62008,N/A,N/A,N/A,6850,244,7523,34,4390,0,585,487
+Monterey Peninsula Unified (Monterey),Monterey,Unified School District,11167,28.7,58.2,53,81.03,38.4,256,0,21.9,10,57470,N/A,N/A,N/A,8827,541,9649,32,5316,27,489,715
+San Gabriel Unified (Los Angeles),Los Angeles,Unified School District,6846,Not Certified,40.1,47,92.67,38.3,295,0,25.1,8,64534,N/A,N/A,N/A,7534,216,8028,29,4852,0,574,570
+Rim of the World Unified (San Bernardino),San Bernardino,Unified School District,4402,9.3,47.9,33,77.27,38.2,117,0,23.1,15,62894,N/A,N/A,N/A,7992,405,8475,48,5154,27,506,914
+Denair Unified (Stanislaus),Stanislaus,Unified School District,1535,15,48.1,39,77.98,38,52,0,18.8,10,62489,N/A,N/A,N/A,8691,263,9118,108,5803,10,624,418
+Natomas Unified (Sacramento),Sacramento,Unified School District,12350,15.8,50.3,70,85.11,37.8,321,0,24.1,9,64052,N/A,N/A,N/A,6799,225,7630,1,4671,1,358,412
+Delhi Unified (Merced),Merced,Unified School District,2606,Not Certified,86.2,17,88.3,37.6,62,0,22.2,11,64572,N/A,N/A,N/A,8413,583,8249,80,5204,29,589,417
+Lakeport Unified (Lake),Lake,Unified School District,1544,7.1,55.2,40,87.62,37.6,35,0,19.5,13,53078,N/A,N/A,N/A,7916,300,8550,162,4977,0,642,608
+Charter Oak Unified (Los Angeles),Los Angeles,Unified School District,6008,6.1,39.5,42,93.25,37,187,0,27.7,13,73985,N/A,N/A,N/A,7198,180,7975,21,4710,34,550,527
+Middletown Unified (Lake),Lake,Unified School District,1712,Not Certified,45.7,29,87.6,36.8,39,0,570.7,3,58338,N/A,N/A,N/A,7472,262,8218,78,4993,0,562,705
+Novato Unified (Marin),Marin,Unified School District,7968,15.3,28.1,45,90.76,36.8,189,0,21,9,61572,N/A,N/A,N/A,8298,268,8575,63,5408,2,477,586
+Calipatria Unified (Imperial),Imperial,Unified School District,1171,Not Certified,79.8,17,92.31,36.7,29,0,18.9,11,57393,N/A,N/A,N/A,8644,776,9155,79,5058,3,840,893
+Burbank Unified (Los Angeles),Los Angeles,Unified School District,16623,10.5,30.5,47,91.84,36.6,551,0,23.9,12,69853,N/A,N/A,N/A,7570,243,7919,58,4916,5,605,444
+Cloverdale Unified (Sonoma),Sonoma,Unified School District,1474,28.6,52,38,85.45,36.5,35,0,24.2,14,N/A,N/A,N/A,N/A,7518,230,8822,90,5350,0,639,343
+Culver City Unified (Los Angeles),Los Angeles,Unified School District,6821,12.8,41.2,60,85.4,36.5,184,0,24.5,12,63379,N/A,N/A,N/A,7346,237,10616,2,4887,6,448,507
+Pomona Unified (Los Angeles),Los Angeles,Unified School District,28295,36.9,77.5,20,77.08,36.3,563,0,23.6,12,71140,N/A,N/A,N/A,8929,409,9198,18,5567,38,536,646
+Muroc Joint Unified (Kern),Kern,Unified School District,2071,3.4,24.5,48,91.03,36.1,48,0,21.4,12,60872,N/A,N/A,N/A,8179,283,9372,85,4979,7,670,544
+San Lorenzo Unified (Alameda),Alameda,Unified School District,11879,29.4,51.2,52,82.82,36.1,291,0,24.6,10,69010,N/A,N/A,N/A,7697,295,8523,30,5119,2,476,490
+Simi Valley Unified (Ventura),Ventura,Unified School District,19933,10.2,27.3,40,81.81,36.1,476,0,23.2,13,66282,N/A,N/A,N/A,7531,250,7961,63,5158,25,360,491
+Tracy Joint Unified (San Joaquin),San Joaquin,Unified School District,17530,23.7,42,56,85.71,36.1,518,0,23.3,10,65205,N/A,N/A,N/A,6943,260,7707,54,4691,8,288,536
+Orange Unified (Orange),Orange,Unified School District,30373,25.7,35.8,46,90.96,35.8,779,0,24.6,11,70237,N/A,N/A,N/A,6987,220,8116,49,4758,4,234,546
+Santa Clara Unified (Santa Clara),Santa Clara,Unified School District,15383,31.6,42.6,62,81.13,35.8,333,0,22.8,10,69674,N/A,N/A,N/A,8962,327,8250,0,5676,8,374,749
+Healdsburg Unified (Sonoma),Sonoma,Unified School District,1982,35.6,53.9,34,86.51,35.4,68,0,23.1,14,59864,N/A,N/A,N/A,8519,312,9376,13,5881,0,647,826
+San Leandro Unified (Alameda),Alameda,Unified School District,8822,Not Certified,54.1,59,82.1,35.4,202,0,22.6,11,74037,N/A,N/A,N/A,7565,285,8186,19,5314,0,329,394
+Woodland Joint Unified (Yolo),Yolo,Unified School District,10403,28.9,61.9,36,84.45,35.4,218,0,24.5,12,61900,N/A,N/A,N/A,7788,413,8303,26,4577,10,532,860
+Central Unified (Fresno),Fresno,Unified School District,14817,14.2,62.6,51,72.99,35.1,284,0,25.7,10,62192,N/A,N/A,N/A,6980,362,7481,75,4223,19,424,689
+West Contra Costa Unified (Contra Costa),Contra Costa,Unified School District,29978,33.5,67.7,47,76.99,35.1,612,0,22.9,10,53775,N/A,N/A,N/A,8615,415,9735,259,5392,5,512,841
+Lodi Unified (San Joaquin),San Joaquin,Unified School District,30528,Not Certified,62.1,59,76.71,34.8,658,0,24.2,11,61233,N/A,N/A,N/A,7596,371,8669,31,5052,0,466,540
+Los Angeles Unified (Los Angeles),Los Angeles,Unified School District,667251,Not Certified,74.3,29,64.75,34.6,12462,0,20.2,13,67084,N/A,N/A,N/A,10045,626,11206,192,6818,23,426,915
+Fairfield-Suisun Unified (Solano),Solano,Unified School District,21534,17.1,48.6,68,83.51,34.5,478,0,24.9,13,64692,N/A,N/A,N/A,7115,265,7651,28,4551,6,441,474
+Dinuba Unified (Tulare),Tulare,Unified School District,6012,30.6,71.1,10,94.14,34.2,161,0,19.7,11,61339,N/A,N/A,N/A,8007,367,9051,95,5484,81,423,716
+El Rancho Unified (Los Angeles),Los Angeles,Unified School District,10381,24,70.9,3,88.13,33.5,261,0,24.2,14,66679,N/A,N/A,N/A,8278,421,8357,30,5471,0,440,672
+Surprise Valley Joint Unified (Modoc),Modoc,Unified School District,131,9.9,69.5,41,85.71,redacted,redacted,0,9.8,11,47080,N/A,N/A,N/A,15635,1073,16229,205,9770,0,1748,612
+Ventura Unified (Ventura),Ventura,Unified School District,17509,14.7,48.1,42,90.12,33.3,428,0,23.4,13,65041,N/A,N/A,N/A,7739,287,8093,49,4815,20,386,697
+Lincoln Unified (San Joaquin),San Joaquin,Unified School District,8909,Not Certified,54.3,60,86.25,33.1,179,0,25.2,14,59901,N/A,N/A,N/A,6634,394,7366,47,4575,2,396,404
+Lucia Mar Unified (San Luis Obispo),San Luis Obispo,Unified School District,10561,15.5,49.6,39,89.56,33.1,253,0,23.7,14,60462,N/A,N/A,N/A,7242,403,8143,86,5037,29,401,572
+Lynwood Unified (Los Angeles),Los Angeles,Unified School District,16359,40.2,78.5,9,58.56,33,284,0,29.6,11,67886,N/A,N/A,N/A,7737,285,9204,13,4841,29,628,408
+Martinez Unified (Contra Costa),Contra Costa,Unified School District,4061,8.6,26.1,46,89.87,33,95,0,22.4,13,61495,N/A,N/A,N/A,7236,226,8233,33,4982,0,466,350
+Travis Unified (Solano),Solano,Unified School District,5343,3.5,21.3,61,93.81,33,121,0,25,12,68920,N/A,N/A,N/A,7058,245,7838,50,4442,0,443,691
+Lindsay Unified (Tulare),Tulare,Unified School District,4150,52.3,74.8,11,69.89,32.8,66,0,23.3,7,57521,N/A,N/A,N/A,8797,848,10480,34,5571,0,632,936
+Santa Ana Unified (Orange),Orange,Unified School District,57319,54.7,84.3,8,82.6,32.7,1166,0,23.8,14,78059,N/A,N/A,N/A,9060,442,9280,79,6166,0,322,585
+Yosemite Unified (Madera),Madera,Unified School District,2285,0.3,34.2,28,85.66,32.7,81,0,21.9,13,65234,N/A,N/A,N/A,9392,417,9764,0,5409,44,843,627
+Covina-Valley Unified (Los Angeles),Los Angeles,Unified School District,13651,12.5,56.2,30,94.05,32.3,411,0,24,10,68174,N/A,N/A,N/A,7479,266,8102,0,4867,1,527,503
+Mammoth Unified (Mono),Mono,Unified School District,1129,38.8,57.1,6,71.43,32.3,21,0,18.4,10,63260,N/A,N/A,N/A,11563,379,12067,110,7992,0,745,844
+Bonita Unified (Los Angeles),Los Angeles,Unified School District,9898,5.7,29,47,93.96,32.1,264,0,25.5,12,70812,N/A,N/A,N/A,7397,270,7911,109,4849,6,454,509
+Mendota Unified (Fresno),Fresno,Unified School District,2779,77.3,92.9,1,75.8,32,39,0,20.6,10,58540,N/A,N/A,N/A,7883,958,9128,0,5613,0,608,372
+Upland Unified (San Bernardino),San Bernardino,Unified School District,14232,12.3,43.9,47,94.53,32,419,0,24.7,14,73757,N/A,N/A,N/A,7225,239,7403,32,5158,75,359,433
+Paso Robles Joint Unified (San Luis Obispo),San Luis Obispo,Unified School District,6794,19.7,47.6,40,87.09,31.9,163,0,23.7,15,66159,N/A,N/A,N/A,8165,320,8695,52,5485,8,475,752
+Butte Valley Unified (Siskiyou),Siskiyou,Unified School District,325,25.8,73.2,37,85.19,redacted,redacted,0,15,11,52348,N/A,N/A,N/A,11175,664,13003,218,6626,0,1084,872
+Southern Kern Unified (Kern),Kern,Unified School District,3256,12.4,64.4,45,61.92,31.8,50,0,24.6,12,66509,N/A,N/A,N/A,7583,221,8280,107,4677,0,344,611
+Manteca Unified (San Joaquin),San Joaquin,Unified School District,23406,17.8,52.4,53,88.86,31.6,483,0,26.7,12,63710,N/A,N/A,N/A,6484,250,7576,6,4489,0,281,492
+Mt. Diablo Unified (Contra Costa),Contra Costa,Unified School District,34116,21.4,35.7,51,81.9,31.6,735,0,24,10,62184,N/A,N/A,N/A,8000,286,9026,47,5431,18,312,692
+Corcoran Joint Unified (Kings),Kings,Unified School District,3381,27.5,78.2,16,88.96,31.4,50,0,19.5,9,61665,N/A,N/A,N/A,8438,769,9308,131,5635,0,513,409
+Cuyama Joint Unified (Santa Barbara),Santa Barbara,Unified School District,246,Not Certified,83.7,28,42.5,redacted,redacted,0,16.4,11,52710,N/A,N/A,N/A,12574,1041,13511,60,6900,0,1031,1457
+Desert Sands Unified (Riverside),Riverside,Unified School District,29123,23.1,59.6,31,83.79,31.2,593,0,26.4,11,71662,N/A,N/A,N/A,8040,329,8835,118,5069,0,439,668
+Norwalk-La Mirada Unified (Los Angeles),Los Angeles,Unified School District,20421,Not Certified,63.7,24,90.03,31.2,464,0,25.1,14,72062,N/A,N/A,N/A,8095,363,9341,10,5296,4,361,570
+Riverside Unified (Riverside),Riverside,Unified School District,42532,16.7,55,43,80.96,31.2,926,0,25.2,15,71472,N/A,N/A,N/A,7615,374,8367,54,5092,2,315,546
+Cotati-Rohnert Park Unified (Sonoma),Sonoma,Unified School District,6003,18.2,39.7,44,77.57,31.1,119,0,25.4,14,61333,N/A,N/A,N/A,7884,158,8041,39,5657,3,419,435
+Lompoc Unified (Santa Barbara),Santa Barbara,Unified School District,9878,23.4,59.4,42,85.92,31.1,195,0,21.8,13,64645,N/A,N/A,N/A,7640,316,8264,109,4745,2,519,644
+Alvord Unified (Riverside),Riverside,Unified School District,19803,42.8,75.2,26,76.95,30.4,348,0,26.7,12,74589,N/A,N/A,N/A,7726,378,7871,28,5104,0,399,542
+Hilmar Unified (Merced),Merced,Unified School District,2253,23.3,56.3,34,91.67,30.3,47,0,19.7,15,59096,N/A,N/A,N/A,7464,390,7891,119,4907,16,501,676
+San Juan Unified (Sacramento),Sacramento,Unified School District,47116,9.6,41.7,39,79.77,30.2,1150,0,23.4,14,69677,N/A,N/A,N/A,8661,465,8697,42,5725,29,409,583
+Yuba City Unified (Sutter),Sutter,Unified School District,13200,19.3,59.6,54,84.28,30.2,250,0,22.1,11,55577,N/A,N/A,N/A,7238,476,7890,58,4790,0,382,536
+Napa Valley Unified (Napa),Napa,Unified School District,18001,20.7,39.8,46,86.18,30.1,350,0,23.2,12,67564,N/A,N/A,N/A,7806,378,8110,60,5178,2,208,621
+Downey Unified (Los Angeles),Los Angeles,Unified School District,22844,16.8,66.7,17,92.01,30,555,0,25.2,13,77546,N/A,N/A,N/A,7497,273,8204,21,5433,0,386,542
+Del Norte County Unified (Del Norte),Del Norte,Unified School District,3716,10.1,63.9,45,85.16,29.8,73,0,21.6,14,60562,N/A,N/A,N/A,9486,555,9919,19,6125,8,546,1019
+Visalia Unified (Tulare),Tulare,Unified School District,27118,17.5,60,39,84.34,29.8,519,0,25,14,63396,N/A,N/A,N/A,7099,489,7875,100,4763,0,291,395
+Vallejo City Unified (Solano),Solano,Unified School District,15603,15.7,59.9,62,53.96,29.7,223,0,23.3,13,58790,N/A,N/A,N/A,8842,394,9431,42,5459,0,840,561
+Turlock Unified (Stanislaus),Stanislaus,Unified School District,13688,26.5,59.6,42,83.65,29.6,288,0,21.9,13,71198,N/A,N/A,N/A,7890,391,8737,57,5722,0,361,379
+Fresno Unified (Fresno),Fresno,Unified School District,74831,23.8,81.3,41,73.43,29.5,1271,0,20.1,14,65566,N/A,N/A,N/A,8923,440,9710,132,5701,18,338,849
+Coachella Valley Unified (Riverside),Riverside,Unified School District,18464,49.8,90.5,3,74.39,29.3,281,0,21.7,9,66267,N/A,N/A,N/A,8666,536,9533,0,5669,0,532,793
+Gilroy Unified (Santa Clara),Santa Clara,Unified School District,11077,28,62.4,30,77.96,29.2,179,0,22.2,11,65710,N/A,N/A,N/A,7744,327,8200,80,5028,19,382,675
+Washington Unified (Yolo),Yolo,Unified School District,7444,21.9,67.4,53,83.2,29.1,129,0,21,10,57015,N/A,N/A,N/A,7788,323,8168,49,5008,0,513,550
+Jurupa Unified (Riverside),Riverside,Unified School District,20088,35.3,70.6,21,81.05,29,378,0,24.8,12,72895,N/A,N/A,N/A,7549,315,8190,39,5161,2,260,675
+Sacramento City Unified (Sacramento),Sacramento,Unified School District,47896,23.7,67.1,65,74.61,28.9,800,0,57.3,12,63345,N/A,N/A,N/A,9199,399,9987,46,6159,4,359,824
+Southern Humboldt Joint Unified (Humboldt),Humboldt,Unified School District,790,3.7,54.7,21,84.62,28.9,13,0,18.9,12,51145,N/A,N/A,N/A,10817,651,12014,54,6435,21,640,2640
+Bear Valley Unified (San Bernardino),San Bernardino,Unified School District,2739,Not Certified,70.2,35,86.79,28.8,68,0,23.8,14,67412,N/A,N/A,N/A,7880,303,8016,83,4728,0,621,742
+Yucaipa-Calimesa Joint Unified (San Bernardino),San Bernardino,Unified School District,9759,9.9,43.8,37,87.28,28.8,208,0,25.4,13,72332,N/A,N/A,N/A,7419,163,7870,48,4749,0,467,709
+Albany City Unified (Alameda),Alameda,Unified School District,3879,Not Certified,18.7,53,89.14,28.6,78,0,21.6,11,65760,N/A,N/A,N/A,8758,386,13891,96,6079,0,766,345
+Black Oak Mine Unified (El Dorado),El Dorado,Unified School District,1636,0.2,34.8,13,95.2,28.6,34,0,20.6,12,56785,N/A,N/A,N/A,9184,344,9469,162,5114,0,764,1434
+Val Verde Unified (Riverside),Riverside,Unified School District,19687,25.2,79.5,29,81.92,28.6,376,0,26.3,9,67341,N/A,N/A,N/A,6942,279,18357,46,4917,0,448,561
+Hacienda la Puente Unified (Los Angeles),Los Angeles,Unified School District,20942,19.9,72.8,22,87.3,28.4,394,0,22.2,10,66027,N/A,N/A,N/A,8154,368,9448,64,5017,3,540,493
+Imperial Unified (Imperial),Imperial,Unified School District,3635,24.2,41.3,25,96.04,28.4,55,0,22.7,9,71052,N/A,N/A,N/A,6935,313,7628,71,4638,0,369,671
+Colusa Unified (Colusa),Colusa,Unified School District,1363,29.6,69.6,36,79,28.2,24,0,20.2,13,59728,N/A,N/A,N/A,7564,393,8344,188,4985,3,550,492
+West Covina Unified (Los Angeles),Los Angeles,Unified School District,14665,7.4,61.8,43,96.98,27.9,253,0,24.4,9,66571,N/A,N/A,N/A,8034,549,8838,46,5183,6,522,510
+Ceres Unified (Stanislaus),Stanislaus,Unified School District,12491,31.6,77.5,34,84.3,27.8,214,0,23.6,11,66393,N/A,N/A,N/A,7727,389,8869,32,5096,0,359,541
+Emery Unified (Alameda),Alameda,Unified School District,778,11.8,84.8,41,64.29,redacted,redacted,0,18.2,5,64706,N/A,N/A,N/A,14226,482,16974,265,7948,0,1788,836
+Murrieta Valley Unified (Riverside),Riverside,Unified School District,22318,4.2,25.9,50,89.73,27.8,438,0,25.8,10,76370,N/A,N/A,N/A,7284,225,7555,73,4800,16,367,597
+Pierce Joint Unified (Colusa),Colusa,Unified School District,1309,31.6,63,30,88,27.5,25,0,20.3,9,57833,N/A,N/A,N/A,7188,455,8205,108,4484,21,665,378
+Banning Unified (Riverside),Riverside,Unified School District,4595,23,90.4,42,82.41,27.4,65,0,22,10,64910,N/A,N/A,N/A,9417,409,9171,51,5754,126,656,748
+Carpinteria Unified (Santa Barbara),Santa Barbara,Unified School District,2327,37.6,58.4,28,89.06,27.3,47,0,20.9,13,N/A,N/A,N/A,N/A,9852,579,10743,321,5522,462,587,937
+Newark Unified (Alameda),Alameda,Unified School District,6654,23.6,45.7,55,87.93,27,124,0,25.7,11,73425,N/A,N/A,N/A,7752,264,8360,38,4978,7,498,441
+Firebaugh-Las Deltas Unified (Fresno),Fresno,Unified School District,2222,32.9,90.8,7,86.26,26.5,43,0,23.1,12,57628,N/A,N/A,N/A,8068,545,8970,106,4713,11,667,859
+Lake Elsinore Unified (Riverside),Riverside,Unified School District,22065,15.3,54.6,43,89.75,26.5,398,0,22.9,11,72297,N/A,N/A,N/A,7721,337,8091,54,5020,117,394,540
+Patterson Joint Unified (Stanislaus),Stanislaus,Unified School District,5873,33.7,63.6,34,85.92,26.5,99,0,23.7,9,60472,N/A,N/A,N/A,6893,355,7998,31,4711,22,421,525
+Oceanside Unified (San Diego),San Diego,Unified School District,21081,20.3,55.7,45,81.77,26.2,338,0,25.6,15,73202,N/A,N/A,N/A,7887,294,8600,8,5317,7,365,734
+Colton Joint Unified (San Bernardino),San Bernardino,Unified School District,23401,25.9,74.9,21,74.71,26,327,0,21.3,11,69200,N/A,N/A,N/A,8174,275,8061,61,5293,9,440,787
+Lake Tahoe Unified (El Dorado),El Dorado,Unified School District,3878,26.7,59.4,42,86.01,26,78,0,21.3,14,65584,N/A,N/A,N/A,8928,436,9455,99,5777,0,509,679
+Mariposa County Unified (Mariposa),Mariposa,Unified School District,2057,2.2,50.2,28,92.39,26,45,0,20.7,14,56896,N/A,N/A,N/A,9061,611,9486,88,5407,14,604,1166
+Dos Palos Oro Loma Joint Unified (Merced),Merced,Unified School District,2399,29.7,85,27,95.07,25.9,55,0,21.5,13,N/A,N/A,N/A,N/A,7899,443,8911,90,4819,77,608,834
+Windsor Unified (Sonoma),Sonoma,Unified School District,5695,18.9,35.6,41,79.58,25.7,97,0,20.7,10,59865,N/A,N/A,N/A,7883,273,8381,59,5467,12,303,918
+Maxwell Unified (Colusa),Colusa,Unified School District,386,Not Certified,63,37,95.35,25.6,11,0,16.6,16,62936,N/A,N/A,N/A,9200,410,9933,155,5652,0,1113,734
+Winters Joint Unified (Yolo),Yolo,Unified School District,1629,33.9,60.3,34,81.21,25.6,34,0,19.5,12,60068,N/A,N/A,N/A,8062,273,8210,10,4933,19,747,756
+Fort Bragg Unified (Mendocino),Mendocino,Unified School District,1885,18.7,64.2,42,88.97,25.4,30,0,17.3,12,51061,N/A,N/A,N/A,9386,490,9752,387,5990,82,578,660
+Hughson Unified (Stanislaus),Stanislaus,Unified School District,2163,26.9,55.4,37,80.68,25.4,44,0,23.1,13,67077,N/A,N/A,N/A,8105,454,9198,417,5641,0,650,367
+Calaveras Unified (Calaveras),Calaveras,Unified School District,3374,0.9,45.8,21,88.64,25.1,67,0,23.1,14,63144,N/A,N/A,N/A,7350,405,8105,65,4841,(4),576,732
+Holtville Unified (Imperial),Imperial,Unified School District,1644,41.7,100,15,88.81,25,31,0,20.4,10,61371,N/A,N/A,N/A,8573,362,9413,83,5233,0,936,649
+Moreno Valley Unified (Riverside),Riverside,Unified School District,36615,Not Certified,76.3,37,69.94,25,497,0,25.8,12,70736,N/A,N/A,N/A,7839,329,8073,1,5309,3,230,640
+Escalon Unified (San Joaquin),San Joaquin,Unified School District,2854,19.8,50.9,39,89.26,24.9,54,0,21.7,12,60531,N/A,N/A,N/A,7233,333,7604,0,4814,0,393,615
+Los Banos Unified (Merced),Merced,Unified School District,9250,29.9,49.9,27,88.46,24.8,156,0,27.1,11,67131,N/A,N/A,N/A,7530,561,7877,95,4835,0,406,513
+Amador County Unified (Amador),Amador,Unified School District,4049,2.5,40,28,85.85,24.7,87,0,25.1,14,60279,N/A,N/A,N/A,6390,313,7391,101,3811,2,519,528
+Newman-Crows Landing Unified (Stanislaus),Stanislaus,Unified School District,2841,Not Certified,74.3,29,90.78,24.7,49,0,23.9,12,65806,N/A,N/A,N/A,7414,460,7945,103,5384,0,570,352
+Gonzales Unified (Monterey),Monterey,Unified School District,2335,47.2,88.1,5,85.71,24.5,39,0,21.4,10,63638,N/A,N/A,N/A,7812,267,8927,75,4678,0,754,690
+Ukiah Unified (Mendocino),Mendocino,Unified School District,6214,23.1,67.1,44,82.46,24.5,98,0,21.9,13,56604,N/A,N/A,N/A,8599,405,9341,35,5672,0,640,597
+Silver Valley Unified (San Bernardino),San Bernardino,Unified School District,2561,Not Certified,49.8,51,72.57,24.4,20,0,19.5,8,61947,N/A,N/A,N/A,11679,607,12213,0,6318,0,1337,1309
+Madera Unified (Madera),Madera,Unified School District,19576,34.3,83.5,16,81.77,24.3,241,0,24.4,10,59208,N/A,N/A,N/A,7475,513,8160,106,4767,1,407,667
+Paramount Unified (Los Angeles),Los Angeles,Unified School District,15791,Not Certified,91.5,15,75.34,24.2,232,0,25,12,69924,N/A,N/A,N/A,8193,324,8538,20,5319,0,429,547
+Kerman Unified (Fresno),Fresno,Unified School District,4561,27.2,79.5,21,83.46,24.1,54,0,24.2,10,60048,N/A,N/A,N/A,6993,397,7449,86,4431,0,616,670
+Oakdale Joint Unified (Stanislaus),Stanislaus,Unified School District,5304,10.6,40.3,35,85.18,24.1,96,0,23.3,13,65137,N/A,N/A,N/A,7418,309,8208,0,4875,0,402,713
+Lucerne Valley Unified (San Bernardino),San Bernardino,Unified School District,2567,2.6,51.6,38,78.26,24,25,0,23.7,6,60806,N/A,N/A,N/A,8814,851,11382,15,5482,0,1095,695
+Farmersville Unified (Tulare),Tulare,Unified School District,2628,42.1,88.8,8,88.36,23.8,39,0,22.8,11,64175,N/A,N/A,N/A,8680,488,9466,132,5864,21,554,476
+Montebello Unified (Los Angeles),Los Angeles,Unified School District,32046,Not Certified,75.5,6,81.14,23.5,496,0,28.9,15,75859,N/A,N/A,N/A,8026,298,8747,26,5278,19,386,837
+Vista Unified (San Diego),San Diego,Unified School District,25843,25.2,50.7,41,80.88,23.5,519,0,25.1,13,63897,N/A,N/A,N/A,7922,327,8662,57,5467,95,322,594
+Caruthers Unified (Fresno),Fresno,Unified School District,1302,35.9,83.9,27,93.28,23.2,26,0,19.1,9,55940,N/A,N/A,N/A,8460,529,9615,172,5213,0,735,730
+Soledad Unified (Monterey),Monterey,Unified School District,4562,46.4,92,7,85.39,23.1,59,0,24.3,10,60774,N/A,N/A,N/A,7889,489,9066,29,5275,0,496,706
+Apple Valley Unified (San Bernardino),San Bernardino,Unified School District,14823,8.8,58.3,48,77.11,23,251,0,25.1,11,69080,N/A,N/A,N/A,7155,343,7695,0,4891,0,400,487
+Bellflower Unified (Los Angeles),Los Angeles,Unified School District,13976,21.7,66.5,43,84.34,22.9,232,0,24.1,13,67449,N/A,N/A,N/A,7354,243,8674,42,4801,10,374,568
+McFarland Unified (Kern),Kern,Unified School District,3328,45.5,96.8,2,70.83,22.9,51,0,19.5,10,60000,N/A,N/A,N/A,9604,629,10302,121,6036,88,639,640
+Marysville Joint Unified (Yuba),Yuba,Unified School District,9858,22.9,75.9,52,79.76,22.8,131,0,22.2,12,61878,N/A,N/A,N/A,8078,593,8900,33,5092,0,536,913
+Twin Rivers Unified (Sacramento),Sacramento,Unified School District,31632,26.4,79.8,59,68.66,22.5,419,0,22.8,11,67979,N/A,N/A,N/A,8733,428,9627,59,5251,0,699,806
+Vacaville Unified (Solano),Solano,Unified School District,12639,10.7,36.4,48,79.68,22.4,210,0,23,13,61015,N/A,N/A,N/A,7005,177,7717,33,4596,0,289,723
+Azusa Unified (Los Angeles),Los Angeles,Unified School District,10518,31.8,72.6,10,87.81,22.2,165,0,22.5,15,69629,N/A,N/A,N/A,8319,334,9005,38,5619,6,381,518
+Baker Valley Unified (San Bernardino),San Bernardino,Unified School District,182,37.9,74.7,21,75,redacted,redacted,0,12.1,5,N/A,N/A,N/A,N/A,14039,751,15012,0,7360,0,2385,949
+Palm Springs Unified (Riverside),Riverside,Unified School District,23626,30.5,80.7,30,80.19,22.1,326,0,24.7,10,69505,N/A,N/A,N/A,8196,363,8625,73,5379,0,479,598
+Porterville Unified (Tulare),Tulare,Unified School District,13656,26,82.6,26,78.07,22.1,263,0,24.5,12,69017,N/A,N/A,N/A,8394,606,9428,150,5773,161,266,689
+Williams Unified (Colusa),Colusa,Unified School District,1275,47.1,77.9,14,75.25,22.1,17,0,22.6,11,59880,N/A,N/A,N/A,6647,322,7723,73,4358,0,553,234
+Coalinga-Huron Unified (Fresno),Fresno,Unified School District,4299,49.7,75.9,19,64.15,22,44,0,24.1,12,64945,N/A,N/A,N/A,8513,555,9147,61,5109,0,548,741
+Gridley Unified (Butte),Butte,Unified School District,2074,Not Certified,66.8,37,85.63,21.9,33,0,19.8,12,60679,N/A,N/A,N/A,7767,523,8600,137,5262,1,431,684
+Calexico Unified (Imperial),Imperial,Unified School District,9269,64.6,77.9,1,81.94,21.8,131,0,24.3,11,65396,N/A,N/A,N/A,8174,381,8988,108,5122,0,523,557
+Laytonville Unified (Mendocino),Mendocino,Unified School District,405,4.2,57.3,33,71.88,redacted,redacted,0,16.6,12,55381,N/A,N/A,N/A,11259,700,12089,241,6447,58,1177,1145
+Stockton Unified (San Joaquin),San Joaquin,Unified School District,38252,27.8,81.7,46,70.99,21.7,375,0,23.2,10,60307,N/A,N/A,N/A,8828,386,9003,28,5554,0,500,707
+Antioch Unified (Contra Costa),Contra Costa,Unified School District,19081,16.6,57.1,60,73.79,21.3,285,0,23.4,12,66763,N/A,N/A,N/A,7394,258,7774,31,5244,0,367,330
+Western Placer Unified (Placer),Placer,Unified School District,9170,Not Certified,25.8,37,87.06,21,131,0,20.5,8,67291,N/A,N/A,N/A,7965,388,7363,149,5251,19,563,572
+Tehachapi Unified (Kern),Kern,Unified School District,4680,7.4,31.2,33,81.58,20.9,66,0,25,13,61814,N/A,N/A,N/A,7636,314,8251,95,4705,76,494,1007
+Mojave Unified (Kern),Kern,Unified School District,2652,14.8,81,54,75.7,20.8,35,0,21.8,9,63595,N/A,N/A,N/A,9012,565,9089,96,5364,0,814,884
+Beaumont Unified (Riverside),Riverside,Unified School District,8580,14.5,59.8,47,85.91,20.6,111,0,26.2,8,65896,N/A,N/A,N/A,6757,288,7053,57,4248,3,462,527
+Monrovia Unified (Los Angeles),Los Angeles,Unified School District,5955,12.3,58.7,43,88.59,20.6,94,0,25.1,14,70287,N/A,N/A,N/A,8101,260,8811,59,5122,0,637,792
+Riverbank Unified (Stanislaus),Stanislaus,Unified School District,2780,43.2,71.5,23,77.78,20.5,34,0,20.9,13,67250,N/A,N/A,N/A,10470,575,11138,50,6997,0,628,755
+Hemet Unified (Riverside),Riverside,Unified School District,22268,14.5,72.7,45,80.77,20.3,313,0,25.2,11,68130,N/A,N/A,N/A,7821,311,8538,88,4829,4,502,892
+Alpaugh Unified (Tulare),Tulare,Unified School District,498,39.8,85.9,34,75,redacted,redacted,0,15.2,4,47203,N/A,N/A,N/A,10386,389,10804,99,6384,0,1317,327
+John Swett Unified (Contra Costa),Contra Costa,Unified School District,1735,15.9,45.1,69,87.59,20,25,0,24.5,9,55845,N/A,N/A,N/A,8349,244,8959,70,5929,0,710,495
+Southern Trinity Joint Unified (Trinity),Trinity,Unified School District,122,Not Certified,84.4,10,55.56,redacted,redacted,0,10.6,11,49734,N/A,N/A,N/A,19787,1398,21739,560,10700,0,1641,2815
+Snowline Joint Unified (San Bernardino),San Bernardino,Unified School District,8282,11.6,54.4,42,88.01,19.7,114,0,26,13,67259,N/A,N/A,N/A,7058,269,7611,26,4451,18,464,702
+Parlier Unified (Fresno),Fresno,Unified School District,3215,58.2,99.4,2,80.38,19.4,32,0,20.3,10,51623,N/A,N/A,N/A,9474,712,10040,62,5652,49,928,711
+Willits Unified (Mendocino),Mendocino,Unified School District,1939,Not Certified,71,35,82.89,19,29,0,21.1,12,54581,N/A,N/A,N/A,9804,298,10653,85,6161,0,606,981
+Laton Joint Unified (Fresno),Fresno,Unified School District,746,44.5,79.1,0,81.25,redacted,redacted,0,18.7,10,53157,N/A,N/A,N/A,7937,554,9213,99,5239,0,859,361
+San Jacinto Unified (Riverside),Riverside,Unified School District,9675,22.7,61.8,37,79.27,18.9,102,0,25.2,10,69546,N/A,N/A,N/A,7423,299,7766,0,4928,0,446,443
+North Monterey County Unified (Monterey),Monterey,Unified School District,4412,41.1,72.5,25,85.93,18.6,65,0,23.1,12,61867,N/A,N/A,N/A,8005,538,8972,87,4641,0,498,1116
+Walnut Valley Unified (Los Angeles),Los Angeles,Unified School District,14719,9.3,13.3,46,96.79,18.6,286,0,26.7,15,74935,N/A,N/A,N/A,7164,245,7519,29,4766,30,267,603
+Selma Unified (Fresno),Fresno,Unified School District,6420,36.6,77.9,15,86.61,18.5,70,0,22.6,12,N/A,N/A,N/A,N/A,8212,500,8205,61,5439,0,532,510
+Morongo Unified (San Bernardino),San Bernardino,Unified School District,9233,4.3,60.5,42,81.73,18.3,98,0,24,13,66037,N/A,N/A,N/A,8109,446,8736,31,4975,14,493,824
+Needles Unified (San Bernardino),San Bernardino,Unified School District,1026,Not Certified,65.3,44,84.85,18.3,11,0,23.6,16,62908,N/A,N/A,N/A,9243,790,10512,10,6003,0,768,769
+Paradise Unified (Butte),Butte,Unified School District,4386,1,54.8,23,85.61,18.3,65,0,22.9,14,56526,N/A,N/A,N/A,9015,530,9901,104,6111,0,523,1277
+San Bernardino City Unified (San Bernardino),San Bernardino,Unified School District,54514,Not Certified,84.1,31,66.79,17.7,530,0,21.6,10,67016,N/A,N/A,N/A,9794,470,9719,0,5962,31,482,988
+Palo Verde Unified (Riverside),Riverside,Unified School District,3557,8.9,64.9,37,78.63,17.6,34,0,23.2,10,57818,N/A,N/A,N/A,7812,470,8941,7,4832,0,584,845
+Fontana Unified (San Bernardino),San Bernardino,Unified School District,40841,35.3,79,18,81.22,17.5,457,0,24.9,12,68510,N/A,N/A,N/A,7443,199,8121,1,4868,20,322,547
+Ramona City Unified (San Diego),San Diego,Unified School District,6247,14.6,32.5,34,87.78,17.2,86,0,24.7,13,69063,N/A,N/A,N/A,8327,278,8528,0,5351,60,639,791
+Sierra Sands Unified (Kern),Kern,Unified School District,5232,8.2,42.4,38,92.35,16.9,63,0,23.7,13,59838,N/A,N/A,N/A,7920,524,8767,55,5164,2,491,631
+Chawanakee Unified (Madera),Madera,Unified School District,929,0.4,40.9,33,68.57,redacted,redacted,0,19.3,10,N/A,N/A,N/A,N/A,9054,501,10047,0,5069,0,1054,808
+Mountain Valley Unified (Trinity),Trinity,Unified School District,370,1.6,76.8,33,88,redacted,redacted,0,14.2,10,48215,N/A,N/A,N/A,13783,769,14760,459,7771,0,1138,1160
+Pittsburg Unified (Contra Costa),Contra Costa,Unified School District,9973,33.1,80.1,44,65.95,16.7,80,0,22.1,9,58153,N/A,N/A,N/A,8150,451,8995,27,5352,2,645,497
+Barstow Unified (San Bernardino),San Bernardino,Unified School District,6155,14.3,70.3,50,65.34,16.6,56,0,23.9,12,59325,N/A,N/A,N/A,8111,414,8446,0,4987,0,529,717
+Waterford Unified (Stanislaus),Stanislaus,Unified School District,3875,12.7,62.8,43,85.8,16.6,56,0,24,8,64645,N/A,N/A,N/A,8535,577,10466,103,6043,339,641,649
+Rialto Unified (San Bernardino),San Bernardino,Unified School District,27026,28.2,83.2,24,77.97,15.8,287,0,25.3,12,71602,N/A,N/A,N/A,8339,352,8301,0,5010,1,568,634
+Esparto Unified (Yolo),Yolo,Unified School District,1084,26.6,63.2,35,84.69,15.6,14,0,23.1,10,59400,N/A,N/A,N/A,8588,349,9271,33,4963,7,1096,755
+Gateway Unified (Shasta),Shasta,Unified School District,3922,1.8,59.4,30,87.3,15.5,41,0,20.5,11,59182,N/A,N/A,N/A,9179,770,10601,144,6742,0,583,907
+Modoc Joint Unified (Modoc),Modoc,Unified School District,859,5.5,55.9,31,89.39,redacted,redacted,0,18.7,12,50790,N/A,N/A,N/A,9206,545,11012,145,5331,0,969,570
+Shandon Joint Unified (San Luis Obispo),San Luis Obispo,Unified School District,310,32.9,72.3,30,90.48,redacted,redacted,0,0,N/A,60433,N/A,N/A,N/A,11011,463,12288,48,6716,0,1264,954
+Konocti Unified (Lake),Lake,Unified School District,3091,16.3,73.8,45,74.18,14.9,26,0,22.1,11,51045,N/A,N/A,N/A,8946,570,9576,47,5585,2,479,1069
+Kelseyville Unified (Lake),Lake,Unified School District,1719,Not Certified,81.6,39,88.8,14.5,17,0,21.8,16,56733,N/A,N/A,N/A,8050,492,8857,95,4936,0,629,998
+Golden Plains Unified (Fresno),Fresno,Unified School District,1908,63.9,98.7,3,71.52,14.4,15,0,20.2,12,N/A,N/A,N/A,N/A,10262,1221,10820,9,6067,0,1593,725
+Morgan Hill Unified (Santa Clara),Santa Clara,Unified School District,9532,22.6,33.9,46,79.68,13.2,73,0,25,11,64962,N/A,N/A,N/A,7271,327,7860,57,4813,2,403,604
+Eureka City Schools (Humboldt),Humboldt,Unified School District,3884,12.5,61.4,42,87.34,13,43,0,22.3,15,N/A,N/A,N/A,N/A,8290,439,9597,60,4954,178,787,992
+Anderson Valley Unified (Mendocino),Mendocino,Unified School District,540,Not Certified,83,25,63.04,redacted,redacted,0,15.3,15,52193,N/A,N/A,N/A,11341,571,11909,124,6714,176,880,844
+Stony Creek Joint Unified (Glenn),Glenn,Unified School District,111,1.8,81.1,43,70,redacted,redacted,0,12.3,10,56247,N/A,N/A,N/A,18370,1161,17911,564,9630,2,2253,1929
+Mountain Empire Unified (San Diego),San Diego,Unified School District,2757,Not Certified,49.5,46,60.31,12.4,18,0,19.1,7,54789,N/A,N/A,N/A,10042,782,10694,218,6161,0,675,1076
+Fall River Joint Unified (Shasta),Shasta,Unified School District,1150,5.9,55.3,36,84.62,redacted,redacted,0,17,12,51165,N/A,N/A,N/A,11091,894,11068,59,6405,0,830,1114
+Benicia Unified (Solano),Solano,Unified School District,4976,3.2,20.3,52,92.67,8.7,34,0,23,15,65745,N/A,N/A,N/A,6712,184,7276,26,4608,0,492,350
+Round Valley Unified (Mendocino),Mendocino,Unified School District,391,6.4,96.9,33,52.17,redacted,redacted,0,13.8,7,52440,N/A,N/A,N/A,20567,1370,20887,536,11456,0,2902,1977
+Lone Pine Unified (Inyo),Inyo,Unified School District,400,Not Certified,63.8,49,90,redacted,redacted,0,16.5,11,63535,N/A,N/A,N/A,15125,763,19969,75,9527,43,1569,939
+Compton Unified (Los Angeles),Los Angeles,Unified School District,24221,Not Certified,84.3,19,56.96,5.9,57,0,21.6,0,N/A,N/A,N/A,N/A,9901,785,10017,27,6325,0,935,753
+Princeton Joint Unified (Glenn),Glenn,Unified School District,224,17,71.9,40,90,redacted,redacted,0,15.8,11,N/A,N/A,N/A,N/A,10131,710,11417,126,5540,0,1290,984
+Westwood Unified (Lassen),Lassen,Unified School District,634,1.3,21.5,21,100,redacted,redacted,0,19.3,6,51481,N/A,N/A,N/A,11006,366,14177,139,6019,0,1571,153
+Center Joint Unified (Sacramento),Sacramento,Unified School District,5081,11.8,55,53,80.23,redacted,redacted,0,21.6,14,68094,N/A,N/A,N/A,7753,158,7857,46,5114,0,425,475
+Willows Unified (Glenn),Glenn,Unified School District,1558,19.9,61.2,44,80.65,redacted,redacted,0,25.2,14,72518,N/A,N/A,N/A,7330,207,8434,0,4418,0,855,457
+Big Sur Unified (Monterey),Monterey,Unified School District,60,Not Certified,0,18,100,redacted,redacted,0,8.6,6,N/A,N/A,N/A,N/A,50715,2602,51386,0,27056,0,5717,2298
+Borrego Springs Unified (San Diego),San Diego,Unified School District,561,Not Certified,76.6,31,72.73,redacted,redacted,0,15.2,6,56426,N/A,N/A,N/A,14621,651,12257,62,9204,0,1540,1474
+Fillmore Unified (Ventura),Ventura,Unified School District,3776,35.7,76.6,13,90.11,redacted,redacted,0,22.3,12,62225,N/A,N/A,N/A,7767,316,8320,52,4964,91,613,578
+Geyserville Unified (Sonoma),Sonoma,Unified School District,247,47.8,63.6,35,60,redacted,redacted,0,12,14,N/A,N/A,N/A,N/A,12200,465,12865,108,7620,0,1058,728
+Gustine Unified (Merced),Merced,Unified School District,1751,Not Certified,77.3,26,92.41,redacted,redacted,0,22.5,12,59577,N/A,N/A,N/A,7208,438,8073,57,4686,0,564,483
+Kings Canyon Joint Unified (Fresno),Fresno,Unified School District,9765,37,68.4,16,87.88,redacted,redacted,0,21.5,13,63382,N/A,N/A,N/A,8450,472,9138,156,4793,36,407,1021
+Klamath-Trinity Joint Unified (Humboldt),Humboldt,Unified School District,1033,0.2,73,20,77.42,redacted,redacted,0,15.7,10,56749,N/A,N/A,N/A,15695,1157,17065,220,8718,0,1251,2159
+Los Molinos Unified (Tehama),Tehama,Unified School District,564,11.2,75.9,37,84.78,redacted,redacted,0,19.9,11,54369,N/A,N/A,N/A,9511,653,9590,199,5605,2,891,931
+Maricopa Unified (Kern),Kern,Unified School District,768,Not Certified,72.5,30,73.91,redacted,redacted,0,22.5,3,N/A,N/A,N/A,N/A,10778,545,13237,36,6627,54,1486,1024
+Mattole Unified (Humboldt),Humboldt,Unified School District,956,Not Certified,84.5,28,74.77,redacted,redacted,0,17.8,7,45723,N/A,N/A,N/A,22643,1075,28782,8,14030,401,3088,1509
+Owens Valley Unified (Inyo),Inyo,Unified School District,38,Not Certified,73.7,52,100,redacted,redacted,0,5.8,16,72085,N/A,N/A,N/A,34663,1444,35624,0,19348,364,5012,2348
+San Marino Unified (Los Angeles),Los Angeles,Unified School District,3198,4.1,2.5,43,98.34,redacted,redacted,0,24.1,13,70574,N/A,N/A,N/A,8603,303,11896,134,5102,49,1107,499
+Trona Joint Unified (San Bernardino),San Bernardino,Unified School District,304,0.3,68.1,46,83.33,redacted,redacted,0,14.7,14,66940,N/A,N/A,N/A,15888,1080,16358,11,10676,200,1133,1204
+Alpine County Unified (Alpine),Alpine,Unified School District,88,0,54.5,39,0,N/A,N/A,0,6.7,8,N/A,N/A,N/A,N/A,33740,1675,35897,6,13427,0,6640,3553
+Desert Center Unified (Riverside),Riverside,Unified School District,18,Not Certified,0,36,N/A,N/A,N/A,0,9,5,N/A,N/A,N/A,N/A,35127,3551,33734,0,15124,0,4287,6591
+Leggett Valley Unified (Mendocino),Mendocino,Unified School District,111,0,49.5,21,100,N/A,N/A,0,8.2,11,47659,N/A,N/A,N/A,22211,1078,24310,200,12329,0,2476,3073
+,,,,,,,,,,,,,,,,,,,,,,,,

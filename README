@@ -1,0 +1,14 @@
+Run locally via Jupyter Notebook:
+- Launch Jupyter Notebook on localhost
+- Locate and open on Jupyter the unzipped folder where this README file is located
+- Open the .ipynb code file and it should run perfectly from top to bottom
+
+Run on DataHub:
+- Access Berkeley's server on DataHub via browser (datahub.berkeley.edu)
+- Upload the .ipynb code file to a specified directory on DataHub
+- Make three folders in the same directory: "district", "admission", "school" (same as names of the folders in the zip)
+- Upload the respective csv files from the three folders in the zip file into the folders created on DataHub
+- Open the .ipynb code file on DataHub and it should run perfectly from top to bottom
+
+
+NOTE: Our code is split into two parts in the Python notebook. Part A contains our models to determine college readiness, and Part B contains our models to determine UC admissions rate.
